@@ -1,7 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Gentium+Basic);
+@import url('https://fonts.googleapis.com/css?family=Eczar');
 
 body {
 	text-align: center;
+	font-family: 'Eczar', serif;
 	background-color: black;
 	color: white
 }
